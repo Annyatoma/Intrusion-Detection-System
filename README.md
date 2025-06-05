@@ -10,7 +10,6 @@ This project uses the NSL-KDD dataset to build an ML-based Intrusion Detection S
 - `app.py`: Streamlit UI
 - `ids_model.keras`: Trained model
 - `KDDTrain+.txt`: Sample dataset (or download link)
-- `IDS_Capstone_Project_Presentation.pptx`: Final AICTE presentation
 
 ## Dataset
 [Download NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
